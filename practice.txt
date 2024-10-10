@@ -30,6 +30,7 @@ git push -u origin your-branch
 
 // Task 5:
 // Switch back to the main branch.
+Test merge confict
 
 // Task 8:
 // Create a new branch called "feature/update-file".
