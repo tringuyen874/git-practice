@@ -29,8 +29,7 @@ git push -u origin your-branch
 // Switch back to the main branch.
 Test merge confict
 
-// Task 6:
-// Merge the "feature/add-file" branch into the main branch.
+merge conflict here
 
 // Task 7:
 // Push the changes to a remote repository.
