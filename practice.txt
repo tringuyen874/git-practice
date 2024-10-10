@@ -1,4 +1,4 @@
-// Git Assignment
+// Git Assignment: Edit this file with the command you used and push this file 
 
 // Task 1:
 // Clone a new Git repository in the current directory.
@@ -6,57 +6,32 @@
 // Task 2:
 // Check status and current branch
 
-// Task 2:
-// Create a new branch and name it your name.
-
 // Task 3:
-// Switch to your branch
-
-// Task 3:
-// Create a new file called "example.txt" and add some content to it.
+// Create a new branch and name it your name, example: tri-branch
 
 // Task 4:
-// Stage the changes
+// Switch to your branch
 
-//Task 5:
-// Commit them with a meaningful message.
+// Task 5:
+// Edit this file 
 
 // Task 6:
+// Stage the changes
+
+// Task 7:
+// Commit them with a meaningful message.
+
+// Task 8:
 // Push the branch and set up upstream: 
 git push -u origin your-branch
 
-// Task 7:
+// Task 9:
 // Create pull request by visiting github from browser
 
-// Task 5:
-// Switch back to the main branch.
-
-// Task 8:
-// Create a new branch called "feature/update-file".
-
-// Task 9:
-// Update the content of the "example.txt" file.
-
 // Task 10:
-// Stage the changes and commit them with a meaningful message.
+// Switch back to the main branch.
 
 // Task 11:
-// Switch back to the main branch.
-
-// Task 12:
-// Merge the "feature/update-file" branch into the main branch.
-
-// Task 13:
-// Push the changes to the remote repository.
-
-// Task 16:
-// Pull the latest changes from the remote repository.
-
-// Task 17:
-// View the commit history.
-
-// Task 18:
-// Resolve any merge conflicts, if any.
-
+// Pull the latest code after merged 
 
 // Congratulations on completing the Git assignment!
