@@ -21,6 +21,10 @@
 //Task 5:
 // Commit them with a meaningful message.
 
+// Task 6:
+// Push the branch and set up upstream: 
+git push -u origin your-branch
+
 // Task 5:
 // Switch back to the main branch.
 
