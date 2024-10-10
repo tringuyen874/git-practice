@@ -10,6 +10,9 @@
 // Create a new branch and name it your name.
 
 // Task 3:
+// Switch to your branch
+
+// Task 3:
 // Create a new file called "example.txt" and add some content to it.
 
 // Task 4:
