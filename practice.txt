@@ -1,0 +1,58 @@
+// Git Assignment
+
+// Task 1:
+// Clone a new Git repository in the current directory.
+
+// Task 2:
+// Check status and current branch
+
+// Task 2:
+// Create a new branch and name it your name.
+
+// Task 3:
+// Create a new file called "example.txt" and add some content to it.
+
+// Task 4:
+// Stage the changes
+
+//Task 5:
+// Commit them with a meaningful message.
+
+// Task 5:
+// Switch back to the main branch.
+
+// Task 6:
+// Merge the "feature/add-file" branch into the main branch.
+
+// Task 7:
+// Push the changes to a remote repository.
+
+// Task 8:
+// Create a new branch called "feature/update-file".
+
+// Task 9:
+// Update the content of the "example.txt" file.
+
+// Task 10:
+// Stage the changes and commit them with a meaningful message.
+
+// Task 11:
+// Switch back to the main branch.
+
+// Task 12:
+// Merge the "feature/update-file" branch into the main branch.
+
+// Task 13:
+// Push the changes to the remote repository.
+
+// Task 16:
+// Pull the latest changes from the remote repository.
+
+// Task 17:
+// View the commit history.
+
+// Task 18:
+// Resolve any merge conflicts, if any.
+
+
+// Congratulations on completing the Git assignment!
