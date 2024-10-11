@@ -2,7 +2,7 @@
 
 // Task 1:
 // Clone a new Git repository in the current directory.
-
+git
 // Task 2:
 // Check status and current branch
 
@@ -14,9 +14,11 @@
 
 // Task 5:
 // Edit this file 
-
+alo 1
+alo 2
 // Task 6:
 // Stage the changes
+git add .
 
 // Task 7:
 // Commit them with a meaningful message.
