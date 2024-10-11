@@ -3,25 +3,34 @@
 // Task 1:
 // Clone a new Git repository in the current directory.
 git
+git clone https://github.com/tringuyen874/git-practice.git
+
 // Task 2:
 // Check status and current branch
+Check status : git status
+Check brand : git brand
 
 // Task 3:
 // Create a new branch and name it your name, example: tri-branch
+git branch Arinee
 
 // Task 4:
 // Switch to your branch
+git checkout Arinee
 
 // Task 5:
 // Edit this file 
 alo 1
 alo 2
+Ahihi
 // Task 6:
 // Stage the changes
 git add .
+git stash
 
 // Task 7:
 // Commit them with a meaningful message.
+git commit -m "doi the nhi"
 
 // Task 8:
 // Push the branch and set up upstream: 
