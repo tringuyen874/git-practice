@@ -2,6 +2,7 @@
 
 // Task 1:
 // Clone a new Git repository in the current directory.
+git
 git clone https://github.com/tringuyen874/git-practice.git
 
 // Task 2:
@@ -19,10 +20,12 @@ git checkout Arinee
 
 // Task 5:
 // Edit this file 
+alo 1
+alo 2
 Ahihi
-
 // Task 6:
 // Stage the changes
+git add .
 git stash
 
 // Task 7:
